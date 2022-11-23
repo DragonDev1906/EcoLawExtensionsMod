@@ -1,5 +1,5 @@
 # Eco Law Extensions Mod
-A server mod for Eco 9.6 that extends the law system with a number of helpful utility game values and legal actions.
+A server mod for Eco 9.7 that extends the law system with a number of helpful utility game values and legal actions.
 
 Added game values:
  - Citizen Population - the current citizen count of a title or demographic
